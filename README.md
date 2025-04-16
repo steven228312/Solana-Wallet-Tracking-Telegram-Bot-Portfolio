@@ -3,7 +3,7 @@
 A professional real-time Solana wallet monitoring system that tracks transactions, calculates pnl and delivers instant notifications via Telegram.
 
 <p align="center">
-  <img src="https://github.com/stevendev0822/Solana-Wallet-Tracking-Telegram-Bot/blob/main/src/public/Usage.mp4" alt="Home video">
+  <img src="https://github.com/stevendev0822/Solana-Wallet-Tracking-Telegram-Bot-Portfolio/blob/main/public/Usage.mp4" alt="Home video">
 </p>
 
 ## Solana Wallet Monitoring Overview
