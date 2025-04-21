@@ -154,8 +154,8 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ## Contact Information
 
-- Gmail: [stevenpiao0822@gmail.com](mailto:stevenpiao0822@gmail.com)
-- GitHub: [Steven Leal](https://github.com/stevendev0822)
+- Gmail: [steven0822.dev@gmail.com](mailto:steven0822.dev@gmail.com)
+- GitHub: [Steven Leal(stevendev0822)](https://github.com/stevendev0822)
 - Telegram: [@stevendev0822](https://t.me/stevendev0822)
 - Twitter: [@stevendev0822](https://twitter.com/stevendev0822)
 - Instagram: [@stevendev0822](https://www.instagram.com/stevendev0822/)
