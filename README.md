@@ -1,6 +1,6 @@
 # Solana Wallet Tracking Telegram Bot
 
-A professional real-time Solana wallet monitoring system that tracks transactions, calculates pnl and delivers instant notifications via Telegram.
+An open-source, real-time **Solana wallet tracker** with Telegram notifications for portfolio and transaction monitoring on the Solana blockchain.
 
 <p align="center">
   <img src="https://github.com/stevendev0822/Solana-Wallet-Tracking-Telegram-Bot-Portfolio/blob/main/public/Usage.gif" alt="Home video">
